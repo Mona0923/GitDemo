@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="471" started-at="2020-12-31T04:37:09Z" finished-at="2020-12-31T04:37:10Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="471" started-at="2020-12-31T04:37:09Z" finished-at="2020-12-31T04:37:10Z">
+      <class name="Mainproject.AppiumTest">
+        <test-method status="PASS" signature="IOSApps()[pri:0, instance:Mainproject.AppiumTest@5e82df6a]" name="IOSApps" duration-ms="5" started-at="2020-12-31T04:37:10Z" finished-at="2020-12-31T04:37:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSApps -->
+        <test-method status="PASS" signature="NativeAppAndroid()[pri:0, instance:Mainproject.AppiumTest@5e82df6a]" name="NativeAppAndroid" duration-ms="4" started-at="2020-12-31T04:37:10Z" finished-at="2020-12-31T04:37:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAppAndroid -->
+      </class> <!-- Mainproject.AppiumTest -->
+      <class name="Mainproject.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:Mainproject.SeleniumTest@7a69b07]" name="BrowserAutomation" duration-ms="4" started-at="2020-12-31T04:37:10Z" finished-at="2020-12-31T04:37:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method status="PASS" signature="ElementsUI()[pri:0, instance:Mainproject.SeleniumTest@7a69b07]" name="ElementsUI" duration-ms="9" started-at="2020-12-31T04:37:10Z" finished-at="2020-12-31T04:37:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ElementsUI -->
+      </class> <!-- Mainproject.SeleniumTest -->
+      <class name="Mainproject.RESTAPITest">
+        <test-method status="PASS" signature="PostJira()[pri:0, instance:Mainproject.RESTAPITest@1139b2f3]" name="PostJira" duration-ms="67" started-at="2020-12-31T04:37:10Z" finished-at="2020-12-31T04:37:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostJira -->
+        <test-method status="PASS" signature="deleteTwitter()[pri:0, instance:Mainproject.RESTAPITest@1139b2f3]" name="deleteTwitter" duration-ms="3" started-at="2020-12-31T04:37:10Z" finished-at="2020-12-31T04:37:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+      </class> <!-- Mainproject.RESTAPITest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
